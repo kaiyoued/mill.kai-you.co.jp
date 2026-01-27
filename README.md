@@ -1,6 +1,7 @@
 # mill.kai-you.co.jp
 
 ## Build Setup
+
 ```bash
 # install dependencies
 $ npm install
@@ -11,6 +12,12 @@ $ npm run dev
 # build for production and launch server
 $ npm run build
 $ npm run start
+
+# generate static files
+$ npm run generate
+
+# serve generated files at localhost:8888
+$ npm run webserver
 ```
 
 For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
@@ -66,13 +73,26 @@ More information about the usage of this directory in [the documentation](https:
 
 
 ## 追記
-### sass-loaderのバージョンについて
-ローカルマシンのNode.js 14.17.5で開発しています。こことバージョンの差異でビルド時にトラブルが起きるようなのでsass-loaderのバージョンについては注意が必要そうです。
+### 開発環境について
+ローカルマシンのNode.js 14.17.5で開発しています。Node.js 16以降でも動作するよう、`node-sass`から`sass` (Dart Sass) への変更と、ビルドスクリプトへの`NODE_OPTIONS=--openssl-legacy-provider`の追加を行っています。
 
 ### smooth-scroll
-smooth-scrollの実装のためvue2-smooth-scrollを導入している
+smooth-scrollの実装のためvue2-smooth-scrollを導入しています。
 
 ### index.htmlの動作確認
 `npm run generate`で生成されたindex.htmlはそのままのディレクトリ構成だと画像・JS周りのリソースが読み込めないようです。
 
-ローカル環境では`npm run webserver`でサーバー起動を行い、「http://0.0.0.0:8888/」から確認できます。
+ローカル環境での確認手順：
+```bash
+# 静的ファイルを生成
+$ npm run generate
+
+# サーバーを起動
+$ npm run webserver
+```
+
+サーバー起動後、以下のURLでアクセスできます：
+- http://localhost:8888/
+- http://127.0.0.1:8888/
+
+ブラウザが自動的に開きますが、開かない場合は上記URLに手動でアクセスしてください。
