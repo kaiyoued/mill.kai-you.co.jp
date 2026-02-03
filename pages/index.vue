@@ -33,80 +33,64 @@
         <div class="works__container">
           <img class="works__container--line" src="~/assets/img/line01.svg" alt="">
           <div class="works__inner">
-            <a class="works__imgWrap" href="http://kai-you.co.jp/works/%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e3%83%ab%e3%83%9f%e3%82%ab-tvcm/" target="_blank">
-              <img class="works__inner--img" src="~/assets/img/works01.jpg" alt="">
+            <a class="works__imgWrap" href="https://kai-you.co.jp/works/%e3%80%8e%e3%83%87%e3%82%a3%e3%82%ba%e3%83%8b%e3%83%bc%e3%83%bb%e3%83%ad%e3%83%ab%e3%82%ab%e3%83%8a%e3%83%bb%e3%83%88%e3%83%ac%e3%83%bc%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b0%e3%82%ab%e3%83%bc%e3%83%89/" target="_blank">
+              <img class="works__inner--img" src="~/assets/img/works06.jpg" alt="">
             </a>
             <div class="works__morebtn">
-              <a target="_blank" href="http://kai-you.co.jp/works/%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e3%83%ab%e3%83%9f%e3%82%ab-tvcm/"><img src="~/assets/img/more-btn.svg" alt=""></a>
+              <a target="_blank" href="https://kai-you.co.jp/works/%e3%80%8e%e3%83%87%e3%82%a3%e3%82%ba%e3%83%8b%e3%83%bc%e3%83%bb%e3%83%ad%e3%83%ab%e3%82%ab%e3%83%8a%e3%83%bb%e3%83%88%e3%83%ac%e3%83%bc%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b0%e3%82%ab%e3%83%bc%e3%83%89/"><img src="~/assets/img/more-btn.svg" alt=""></a>
             </div>
             <div class="works__txt">
-              <p class="works__txt--name">キミは何色？2019編</p>
-              <p class="works__txt--type">Web/Video</p>
-              <p class="works__txt--customer">株式会社ルミカ</p>
+              <p class="works__txt--name">Disney Lorcana 日本公式YouTube</p>
+              <p class="works__txt--type">Design/Video</p>
+              <p class="works__txt--customer">株式会社タカラトミー</p>
             </div>
           </div>
         </div>
         <div class="works__container">
           <img class="works__container--line" src="~/assets/img/line02.svg" alt="">
           <div class="works__inner">
-            <a class="works__imgWrap" href="http://kai-you.co.jp/works/%e3%81%95%e3%81%aa%e3%82%8a-%e3%82%aa%e3%83%95%e3%82%a3%e3%82%b7%e3%83%a3%e3%83%ab%e3%82%b5%e3%82%a4%e3%83%88/" target="_blank">
-              <img class="works__inner--img" src="~/assets/img/works02.jpg" alt="">
+            <a class="works__imgWrap" href="https://kai-you.co.jp/works/%e3%80%8clets-try-streaming%ef%bc%81powered-by-%e3%82%a4%e3%83%b3%e3%83%86%e3%83%ab-core-%e3%83%97%e3%83%ad%e3%82%bb%e3%83%83%e3%82%b5%e3%83%bc%e3%80%8d%e4%bc%81%e7%94%bb/" target="_blank">
+              <img class="works__inner--img" src="~/assets/img/works07.jpg" alt="">
             </a>
             <div class="works__morebtn">
-              <a target="_blank" href="http://kai-you.co.jp/works/%e3%81%95%e3%81%aa%e3%82%8a-%e3%82%aa%e3%83%95%e3%82%a3%e3%82%b7%e3%83%a3%e3%83%ab%e3%82%b5%e3%82%a4%e3%83%88/"><img src="~/assets/img/more-btn.svg" alt=""></a>
+              <a target="_blank" href="https://kai-you.co.jp/works/%e3%80%8clets-try-streaming%ef%bc%81powered-by-%e3%82%a4%e3%83%b3%e3%83%86%e3%83%ab-core-%e3%83%97%e3%83%ad%e3%82%bb%e3%83%83%e3%82%b5%e3%83%bc%e3%80%8d%e4%bc%81%e7%94%bb/"><img src="~/assets/img/more-btn.svg" alt=""></a>
             </div>
             <div class="works__txt">
-              <p class="works__txt--name">sanari official site</p>
-              <p class="works__txt--type">Design/Web</p>
-              <p class="works__txt--customer">株式会社A-sketch</p>
+              <p class="works__txt--name">LET'S TRY STREAMING！</p>
+              <p class="works__txt--type">Design/Video</p>
+              <p class="works__txt--customer">インテル株式会社</p>
             </div>
           </div>
         </div>
         <div class="works__container">
           <img class="works__container--line" src="~/assets/img/line01.svg" alt="">
           <div class="works__inner">
-            <a class="works__imgWrap" href="http://kai-you.co.jp/works/%e3%83%a4%e3%83%95%e3%83%bc%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be-csr%e3%82%b5%e3%82%a4%e3%83%88/" target="_blank">
-              <img class="works__inner--img" src="~/assets/img/works03.jpg" alt="">
-            </a>
-            <div class="works__morebtn">
-              <a target="_blank" href="http://kai-you.co.jp/works/%e3%83%a4%e3%83%95%e3%83%bc%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be-csr%e3%82%b5%e3%82%a4%e3%83%88/"><img src="~/assets/img/more-btn.svg" alt=""></a>
+            <a class="works__imgWrap" href="https://kai-you.co.jp/works/web%e3%83%9e%e3%82%ac%e3%82%b8%e3%83%b3%e3%80%8c%e3%81%ae%e3%82%8b%e3%82%a6%e3%82%a7%e3%82%a4%ef%bc%81%e3%80%8d%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3%e3%83%84%e4%bc%81%e7%94%bb%e3%83%bb%e5%88%b6/" target="_blank">
+              <img class="works__inner--img" src="~/assets/img/works08.jpg" alt="">
+              </a>
+              <div class="works__morebtn">
+              <a target="_blank" href="https://kai-you.co.jp/works/web%e3%83%9e%e3%82%ac%e3%82%b8%e3%83%b3%e3%80%8c%e3%81%ae%e3%82%8b%e3%82%a6%e3%82%a7%e3%82%a4%ef%bc%81%e3%80%8d%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3%e3%83%84%e4%bc%81%e7%94%bb%e3%83%bb%e5%88%b6/"><img src="~/assets/img/more-btn.svg" alt=""></a>
             </div>
             <div class="works__txt">
-              <p class="works__txt--name">ヤフー株式会社 CSRサイト</p>
+              <p class="works__txt--name">Webマガジン「のるウェイ！」</p>
               <p class="works__txt--type">Design/Web</p>
-              <p class="works__txt--customer">ヤフー株式会社</p>
+              <p class="works__txt--customer">KINTOテクノロジーズ株式会社</p>
             </div>
           </div>
         </div>
         <div class="works__container">
           <img  class="works__container--line" src="~/assets/img/line02.svg" alt="">
           <div class="works__inner">
-            <a class="works__imgWrap" href="http://kai-you.co.jp/works/%e9%9b%bb%e6%b3%a2%e5%b0%91%e5%a5%b3%e3%80%8ea-bone-feat-jinmenusagi-%ef%bc%86-niha-c%e3%80%8f/" target="_blank">
-              <img class="works__inner--img" src="~/assets/img/works04.jpg" alt="">
+            <a class="works__imgWrap" href="https://kai-you.co.jp/works/%e3%83%9e%e3%82%b8%e3%83%83%e3%82%af%e3%82%b6%e3%83%bb%e3%82%ae%e3%83%a3%e3%82%b6%e3%83%aa%e3%83%b3%e3%82%b0-%e6%97%a5%e6%9c%ac%e5%85%ac%e5%bc%8fyoutube-tiktok-%e4%bc%81%e7%94%bb%e5%88%b6%e4%bd%9c/" target="_blank">
+              <img class="works__inner--img" src="~/assets/img/works09.jpg" alt="">
             </a>
             <div class="works__morebtn">
-              <a target="_blank" href="http://kai-you.co.jp/works/%e9%9b%bb%e6%b3%a2%e5%b0%91%e5%a5%b3%e3%80%8ea-bone-feat-jinmenusagi-%ef%bc%86-niha-c%e3%80%8f/"><img src="~/assets/img/more-btn.svg" alt=""></a>
+              <a target="_blank" href="https://kai-you.co.jp/works/%e3%83%9e%e3%82%b8%e3%83%83%e3%82%af%e3%82%b6%e3%83%bb%e3%82%ae%e3%83%a3%e3%82%b6%e3%83%aa%e3%83%b3%e3%82%b0-%e6%97%a5%e6%9c%ac%e5%85%ac%e5%bc%8fyoutube-tiktok-%e4%bc%81%e7%94%bb%e5%88%b6%e4%bd%9c/"><img src="~/assets/img/more-btn.svg" alt=""></a>
             </div>
             <div class="works__txt">
-              <p class="works__txt--name">A BONE feat.Jinmenusagi & NIHA-C</p>
+              <p class="works__txt--name">Magic: The Gathering 日本公式YouTube/TikTok</p>
               <p class="works__txt--type">Design/Video</p>
-              <p class="works__txt--customer">株式会社ソニー・ミュージックレーベルズ</p>
-            </div>
-          </div>
-        </div>
-        <div class="works__container">
-          <img class="works__container--line" src="~/assets/img/line01.svg" alt="">
-          <div class="works__inner">
-            <a class="works__imgWrap" href="http://kai-you.co.jp/works/%e9%9b%bb%e6%b3%a2%e5%b0%91%e5%a5%b3%e3%83%a1%e3%82%b8%e3%83%a3%e3%83%bc%e3%83%87%e3%83%93%e3%83%a5%e3%83%bc%e3%82%a2%e3%83%ab%e3%83%90%e3%83%a0%e3%80%8ehealth%e3%80%8f/" target="_blank">
-              <img class="works__inner--img" src="~/assets/img/works05.jpg" alt="">
-            </a>
-            <div class="works__morebtn">
-              <a target="_blank" href="http://kai-you.co.jp/works/%e9%9b%bb%e6%b3%a2%e5%b0%91%e5%a5%b3%e3%83%a1%e3%82%b8%e3%83%a3%e3%83%bc%e3%83%87%e3%83%93%e3%83%a5%e3%83%bc%e3%82%a2%e3%83%ab%e3%83%90%e3%83%a0%e3%80%8ehealth%e3%80%8f/"><img src="~/assets/img/more-btn.svg" alt=""></a>
-            </div>
-            <div class="works__txt">
-              <p class="works__txt--name">HEALTH</p>
-              <p class="works__txt--type">Design/Illust</p>
-              <p class="works__txt--customer">株式会社ソニー・ミュージックレーベルズ</p>
+              <p class="works__txt--customer">ハズブロジャパン合同会社</p>
             </div>
           </div>
         </div>
@@ -124,7 +108,7 @@
           <img src="~/assets/img/member02.jpg" alt="">
           <div class="members__txt">
             <p class="members__txt--name">古見 湖</p>
-            <p class="members__txt--small">Mizuumi furumi</p>
+            <p class="members__txt--small">Mizuumi Furumi</p>
             <p class="members__txt--small">ビデオグラファー／映像監督</p>
           </div>
         </div>
@@ -137,11 +121,11 @@
           </div>
         </div>
         <div class="members__container">
-          <img src="~/assets/img/member03.jpg" alt="">
+          <img src="~/assets/img/member05.jpg" alt="">
           <div class="members__txt">
-            <p class="members__txt--name">米村 智水</p>
-            <p class="members__txt--small">Tomomi Yonemura</p>
-            <p class="members__txt--small">プロデューサー</p>
+            <p class="members__txt--name">飯田 頼知</p>
+            <p class="members__txt--small">Raichi Iida</p>
+            <p class="members__txt--small">ビデオグラファー / 映像監督</p>
           </div>
         </div>
       </div>
